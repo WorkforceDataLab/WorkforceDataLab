@@ -22,7 +22,14 @@ Turning multi-city workforce data into clear stories, insights, and dashboards t
 
 
 ## 🛠️ Tools  
-SQL • BigQuery • Excel • Google Sheets • Tableau • Looker Studio • Data Visualization  
+<!-- Pastel Tool Badges -->
+<img src="https://img.shields.io/badge/SQL-ffcce7?style=for-the-badge&logo=postgresql&logoColor=8a5585" />
+<img src="https://img.shields.io/badge/BigQuery-cff3ff?style=for-the-badge&logo=googlecloud&logoColor=3a6d8c" />
+<img src="https://img.shields.io/badge/Excel-f7e6ff?style=for-the-badge&logo=microsoft-excel&logoColor=5b8a4d" />
+<img src="https://img.shields.io/badge/Google%20Sheets-fde6ff?style=for-the-badge&logo=googlesheets&logoColor=469c57" />
+<img src="https://img.shields.io/badge/Tableau-ffe6ea?style=for-the-badge&logo=tableau&logoColor=5c6bc0" />
+<img src="https://img.shields.io/badge/Looker%20Studio-e6f7ff?style=for-the-badge&logo=looker&logoColor=1c59af" />
+<img src="https://img.shields.io/badge/Data%20Visualization-f7f2ff?style=for-the-badge&logo=chartdotjs&logoColor=9153d3" />
 
 
 ## 📂 Portfolio  
